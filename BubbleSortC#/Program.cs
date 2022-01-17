@@ -2,7 +2,7 @@
 
 
 namespace BubbleSort {
-   class MySort {
+   class Sorter {
       static void Main(string[] args) {
          //Array to sort
          int[] anArray = { 78, 55, 78, 27, 1, 3, 99, 88, 78 };
