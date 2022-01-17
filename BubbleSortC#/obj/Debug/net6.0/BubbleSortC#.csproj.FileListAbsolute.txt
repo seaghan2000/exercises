@@ -1,0 +1,15 @@
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\bin\Debug\net6.0\BubbleSortC#.exe
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\bin\Debug\net6.0\BubbleSortC#.deps.json
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\bin\Debug\net6.0\BubbleSortC#.runtimeconfig.json
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\bin\Debug\net6.0\BubbleSortC#.dll
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\bin\Debug\net6.0\ref\BubbleSortC#.dll
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\bin\Debug\net6.0\BubbleSortC#.pdb
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\BubbleSortC#.csproj.AssemblyReference.cache
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\BubbleSortC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\BubbleSortC#.AssemblyInfoInputs.cache
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\BubbleSortC#.AssemblyInfo.cs
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\BubbleSortC#.csproj.CoreCompileInputs.cache
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\BubbleSortC#.dll
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\ref\BubbleSortC#.dll
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\BubbleSortC#.pdb
+C:\Users\seagh\OneDrive\Documents\Work\Exercises\BubbleSortC#\obj\Debug\net6.0\BubbleSortC#.genruntimeconfig.cache
